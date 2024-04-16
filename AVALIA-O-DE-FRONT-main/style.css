@@ -1,0 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Architects+Daughter&family=Kalam:wght@300;400;700&family=Tilt+Prism&family=Truculenta:opsz,wght');
+body{
+    font-family: 'Times New Roman';
+    margin:0;
+    padding: 0;
+    background-color:#f3f0f0;
+}
+header{
+    font-family:'Times New Roman';
+    background: color #005b47;;
+    color: #f3f0f0;
+    padding: 10px;
+    text-align: center;
+}
