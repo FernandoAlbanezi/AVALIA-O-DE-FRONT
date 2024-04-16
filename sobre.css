@@ -1,0 +1,40 @@
+.topo{
+    padding: 0px 20px;
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    background-color: #f2fedc;
+}
+main{
+    padding: 20px 0px;
+    display: flex;
+    justify-content: space-around;
+    background-color: #005b47;
+    
+}
+section, aside{
+    width: 45%;
+}
+section header{
+    padding: 10px;
+    text-align: justify;
+    background-color:#f2fedc;
+    color: #000000;
+}
+section div{
+    padding-inline-start: 10px;
+    text-align: justify;
+    background-color: #f2fedc;
+    color: #000000;
+}
+aside header{
+    padding: 10px;
+    text-align: center;
+    background-color:#f2fedc;
+    color: #000000;
+}
+aside div{
+    padding-inline-start: 10px;
+    text-align: justify;
+    background-color: #f2fedc;
+}
